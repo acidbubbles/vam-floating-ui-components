@@ -1,0 +1,16 @@
+{ 
+   "licenseType" : "CC BY-SA", 
+   "creatorName" : "AcidBubbles", 
+   "packageName" : "FloatingUIComponents", 
+   "includeVersionsInReferences" : "true", 
+   "description" : "v0.0.0 Add floating UI components to your scenes", 
+   "credits" : "Weeb for the idea", 
+   "instructions" : "Add one of the scripts on a SimpleSign atom, and make it transparent.", 
+   "promotionalLink" : "https://github.com/AcidBubbles/vam-floating-ui-components", 
+   "programVersion" : "1.19.0.5", 
+   "contentList" : [ 
+      "Custom\\Scripts\\AcidBubbles\\MyPlugin\\MyPlugin.cs"
+   ], 
+   "dependencies" : { 
+   }
+}
