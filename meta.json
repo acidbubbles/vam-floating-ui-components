@@ -9,7 +9,7 @@
    "promotionalLink" : "https://github.com/AcidBubbles/vam-floating-ui-components", 
    "programVersion" : "1.19.0.5", 
    "contentList" : [ 
-      "Custom\\Scripts\\AcidBubbles\\MyPlugin\\MyPlugin.cs"
+      "Custom\\Scripts\\AcidBubbles\\FloatingUIComponents\\UISlider.cs"
    ], 
    "dependencies" : { 
    }
